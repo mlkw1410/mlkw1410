@@ -1,6 +1,3 @@
-# Hi, I'm Malavika 👋
-
-Final-year CS student at Model Engineering College, Kochi. I'm passionate about **UI/UX design**, **frontend development**, and **accessible web experiences**.
 
 ## 🚀 Projects I'm Working On....
 - **[TrackPlay](https://github.com/mlkw1410/TrackPlay)** — Sports video player tracking using YOLO and DeepSORT
